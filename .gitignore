@@ -1,0 +1,5 @@
+# Ignore all Rawfiles
+*.Rawfile
+
+# Ignore all qopraw files
+*.qopraw
